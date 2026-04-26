@@ -86,6 +86,9 @@
         "currencies": {
             "currency": "Кредиты"
         },
+        "Item": {
+            "Weapon": "Оружие"
+        },
         "settings": {
             "injectButton": {
                 "Name": "Отображать шкалу щитов на листах персонажей игроков?",
