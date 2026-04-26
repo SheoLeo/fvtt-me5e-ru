@@ -1,0 +1,96 @@
+{
+    "ME5E": {
+        "skills": {
+            "skillElectronics": "Electronics",
+            "skillEngineering": "Engineering",
+            "skillScience": "Science",
+            "skillVehicleHandling": "Vehicle Handling"
+        },
+        "equipmentTypes": {
+            "equipTypeProgram": "Program",
+            "equipTypeArmorMod": "Armor Mod",
+            "equipTypeWeaponMod": "Weapon Mod",
+            "equipTypeBodyArmor": "Body Armor"
+        },
+        "consumableTypes": {
+            "consumTypeSUProgram": "Single-Use Program",
+            "consumTypeGrenade": "Grenade",
+            "consumTypeNarcotic": "Narcotic"
+        },
+        "spellSchools": {
+            "spSchBiotics": "Biotics",
+            "spSchTech": "Tech",
+            "spSchCombat": "Combat"
+        },
+        "weaponTypes": {
+            "weaponTypeAssault" : "Assault Rifle",
+            "weaponTypeHeavyPistol" : "Heavy Pistol",
+            "weaponTypeSMG" : "SMG",
+            "weaponTypeShotgun" : "Shotgun",
+            "weaponTypeSniper" : "Sniper Rifle",
+            "weaponTypeHeavy" : "Heavy Weapon"
+        },
+        "weaponProperties": {
+            "weaponPropArc": "Arc",
+            "weaponPropBurst": "Burst Fire",
+            "weaponPropDouble": "Double Tap",
+            "weaponPropHeat": "Heat",
+            "weaponPropHip": "Hip Fire",
+            "weaponPropSilent": "Silent",
+            "weaponPropRecoil": "Recoil",
+            "weaponPropVented": "Vented",
+            "weaponPropMelee": "Melee"
+        },
+        "conditionTypes": {
+            "condTypeIndoc": "Indoctrinated",
+            "condTypeLift": "Lifted",
+            "condTypePrime": "Primed",
+            "condTypePrimeCold": "Primed (Cold)",
+            "condTypePrimeFire": "Primed (Fire)",
+            "condTypePrimeForce": "Primed (Force)",
+            "condTypePrimeLightning": "Primed (Lightning)",
+            "condTypePrimeNecrotic": "Primed (Necrotic)",
+            "condTypePrimeRadiant": "Primed (Radiant)",
+            "condTypeTarget": "Targeting"
+        },
+        "tools": {
+            "toolChemist": "Chemist's Supplies",
+            "toolSSN": "Starship System (Navigation)",
+            "toolBrewer": "Brewer's Supplies",
+            "toolArmWork": "Armorsmith's Workbench",
+            "toolCook": "Cook's Utensils",
+            "toolHack": "Hacking Tools",
+            "toolMed": "Medical Kit",
+            "toolPaint": "Painter's Supplies",
+            "toolSSD": "Starship Systems (Drive)",
+            "toolSSH": "Starship Systems (Helm)",
+            "toolSSSSC": "Starship Systems (SSC)",
+            "toolSSEWS": "Starship Systems (EWS)",
+            "toolSSW": "Starship Systems (Weapons)",
+            "toolTailor": "Tailor's Tools",
+            "toolTinker": "Tinker's Tools",
+            "toolWeapWork": "Weaponsmith's Workbench"
+        },
+        "toolTypes": {
+            "toolTypeCatStar": "Starship Systems"
+        },
+        "reputation": {
+            "repParagon": "Paragon",
+            "repRenegade": "Renegade"
+        },
+        "trackable": {
+            "shields": "Shields",
+            "shieldsM": "Max Shields",
+            "shieldsR": "Shields Regeneration"
+        },
+        "currencies": {
+            "currency": "Credits"
+        },
+        "settings": {
+            "injectButton": {
+            "Name": "Display Shields Bar on Player Character Sheets?",
+            "Hint": "Controls whether or not the module's Shields bar is present on the Player Character sheet."
+      }
+        }
+    }
+}
