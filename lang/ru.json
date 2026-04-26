@@ -1,96 +1,96 @@
 {
     "ME5E": {
         "skills": {
-            "skillElectronics": "Electronics",
-            "skillEngineering": "Engineering",
-            "skillScience": "Science",
-            "skillVehicleHandling": "Vehicle Handling"
+            "skillElectronics": "Электроника",
+            "skillEngineering": "Инженерия",
+            "skillScience": "Наука",
+            "skillVehicleHandling": "Управление транспортом"
         },
         "equipmentTypes": {
-            "equipTypeProgram": "Program",
-            "equipTypeArmorMod": "Armor Mod",
-            "equipTypeWeaponMod": "Weapon Mod",
-            "equipTypeBodyArmor": "Body Armor"
+            "equipTypeProgram": "Программа",
+            "equipTypeArmorMod": "Мод брони",
+            "equipTypeWeaponMod": "Мод оружия",
+            "equipTypeBodyArmor": "Нательная броня"
         },
         "consumableTypes": {
-            "consumTypeSUProgram": "Single-Use Program",
-            "consumTypeGrenade": "Grenade",
-            "consumTypeNarcotic": "Narcotic"
+            "consumTypeSUProgram": "Одноразовая программа",
+            "consumTypeGrenade": "Граната",
+            "consumTypeNarcotic": "Наркотик"
         },
         "spellSchools": {
-            "spSchBiotics": "Biotics",
-            "spSchTech": "Tech",
-            "spSchCombat": "Combat"
+            "spSchBiotics": "Биотика",
+            "spSchTech": "Технологии",
+            "spSchCombat": "Бой"
         },
         "weaponTypes": {
-            "weaponTypeAssault" : "Assault Rifle",
-            "weaponTypeHeavyPistol" : "Heavy Pistol",
-            "weaponTypeSMG" : "SMG",
-            "weaponTypeShotgun" : "Shotgun",
-            "weaponTypeSniper" : "Sniper Rifle",
-            "weaponTypeHeavy" : "Heavy Weapon"
+            "weaponTypeAssault": "Штурмовая винтовка",
+            "weaponTypeHeavyPistol": "Тяжёлый пистолет",
+            "weaponTypeSMG": "Пистолет-пулемёт",
+            "weaponTypeShotgun": "Дробовик",
+            "weaponTypeSniper": "Снайперская винтовка",
+            "weaponTypeHeavy": "Тяжёлое оружие"
         },
         "weaponProperties": {
-            "weaponPropArc": "Arc",
-            "weaponPropBurst": "Burst Fire",
-            "weaponPropDouble": "Double Tap",
-            "weaponPropHeat": "Heat",
-            "weaponPropHip": "Hip Fire",
-            "weaponPropSilent": "Silent",
-            "weaponPropRecoil": "Recoil",
-            "weaponPropVented": "Vented",
-            "weaponPropMelee": "Melee"
+            "weaponPropArc": "Дуговой",
+            "weaponPropBurst": "Стрельба очередью",
+            "weaponPropDouble": "Двойной выстрел",
+            "weaponPropHeat": "Нагрев",
+            "weaponPropHip": "Стрельба от бедра",
+            "weaponPropSilent": "Бесшумное",
+            "weaponPropRecoil": "Отдача",
+            "weaponPropVented": "Вентилируемое",
+            "weaponPropMelee": "Ближний бой"
         },
         "conditionTypes": {
-            "condTypeIndoc": "Indoctrinated",
-            "condTypeLift": "Lifted",
-            "condTypePrime": "Primed",
-            "condTypePrimeCold": "Primed (Cold)",
-            "condTypePrimeFire": "Primed (Fire)",
-            "condTypePrimeForce": "Primed (Force)",
-            "condTypePrimeLightning": "Primed (Lightning)",
-            "condTypePrimeNecrotic": "Primed (Necrotic)",
-            "condTypePrimeRadiant": "Primed (Radiant)",
-            "condTypeTarget": "Targeting"
+            "condTypeIndoc": "Индоктринирован",
+            "condTypeLift": "Подброшен",
+            "condTypePrime": "Подготовлен",
+            "condTypePrimeCold": "Подготовлен (Холод)",
+            "condTypePrimeFire": "Подготовлен (Огонь)",
+            "condTypePrimeForce": "Подготовлен (Сила)",
+            "condTypePrimeLightning": "Подготовлен (Молния)",
+            "condTypePrimeNecrotic": "Подготовлен (Некротика)",
+            "condTypePrimeRadiant": "Подготовлен (Сияние)",
+            "condTypeTarget": "Прицеливание"
         },
         "tools": {
-            "toolChemist": "Chemist's Supplies",
-            "toolSSN": "Starship System (Navigation)",
-            "toolBrewer": "Brewer's Supplies",
-            "toolArmWork": "Armorsmith's Workbench",
-            "toolCook": "Cook's Utensils",
-            "toolHack": "Hacking Tools",
-            "toolMed": "Medical Kit",
-            "toolPaint": "Painter's Supplies",
-            "toolSSD": "Starship Systems (Drive)",
-            "toolSSH": "Starship Systems (Helm)",
-            "toolSSSSC": "Starship Systems (SSC)",
-            "toolSSEWS": "Starship Systems (EWS)",
-            "toolSSW": "Starship Systems (Weapons)",
-            "toolTailor": "Tailor's Tools",
-            "toolTinker": "Tinker's Tools",
-            "toolWeapWork": "Weaponsmith's Workbench"
+            "toolChemist": "Набор химика",
+            "toolSSN": "Система звездолёта (Навигация)",
+            "toolBrewer": "Принадлежности пивовара",
+            "toolArmWork": "Верстак бронника",
+            "toolCook": "Кухонные принадлежности",
+            "toolHack": "Инструменты взлома",
+            "toolMed": "Медицинский набор",
+            "toolPaint": "Принадлежности художника",
+            "toolSSD": "Системы звездолёта (Привод)",
+            "toolSSH": "Системы звездолёта (Штурвал)",
+            "toolSSSSC": "Системы звездолёта (SSC)",
+            "toolSSEWS": "Системы звездолёта (EWS)",
+            "toolSSW": "Системы звездолёта (Оружие)",
+            "toolTailor": "Инструменты портного",
+            "toolTinker": "Инструменты механика",
+            "toolWeapWork": "Верстак оружейника"
         },
         "toolTypes": {
-            "toolTypeCatStar": "Starship Systems"
+            "toolTypeCatStar": "Системы звездолёта"
         },
         "reputation": {
-            "repParagon": "Paragon",
-            "repRenegade": "Renegade"
+            "repParagon": "Герой",
+            "repRenegade": "Отступник"
         },
         "trackable": {
-            "shields": "Shields",
-            "shieldsM": "Max Shields",
-            "shieldsR": "Shields Regeneration"
+            "shields": "Щиты",
+            "shieldsM": "Макс. щиты",
+            "shieldsR": "Регенерация щитов"
         },
         "currencies": {
-            "currency": "Credits"
+            "currency": "Кредиты"
         },
         "settings": {
             "injectButton": {
-            "Name": "Display Shields Bar on Player Character Sheets?",
-            "Hint": "Controls whether or not the module's Shields bar is present on the Player Character sheet."
-      }
+                "Name": "Отображать шкалу щитов на листах персонажей игроков?",
+                "Hint": "Определяет, будет ли шкала щитов модуля отображаться на листе персонажа игрока."
+            }
         }
     }
 }
